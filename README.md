@@ -1,2 +1,2 @@
-# Example-LKM-Rootkits
+# Example-LKMs and LKM-Rootkits
 example LKM RKs
